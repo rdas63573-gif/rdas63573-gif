@@ -55,9 +55,25 @@ A Python console app with balance check, deposit, withdrawal and PIN verificatio
 
 ## 📫 Contact
 
-- Email: rdas63573@gmail.com
-- LinkedIn: [Chiranjeet Das](https://www.linkedin.com/in/chiranjeet-das-1342b327a)
-- RDX_FIND live demo: [rdx-find.vercel.app](https://rdx-find.vercel.app)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Let%27s+build+something+together;rdas63573%40gmail.com;Open+to+internships+%26+entry-level+roles" alt="Contact typing animation" />
+
+<br/><br/>
+
+<a href="mailto:rdas63573@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="56" alt="Email" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chiranjeet-das-1342b327a"><img src="https://skillicons.dev/icons?i=linkedin" width="56" alt="LinkedIn" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/rdas63573-gif"><img src="https://skillicons.dev/icons?i=github" width="56" alt="GitHub" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://rdx-find.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="56" alt="RDX_FIND live demo" /></a>
+
+<br/><br/>
+
+📧 Email &nbsp;·&nbsp; 💼 LinkedIn &nbsp;·&nbsp; 🐙 GitHub &nbsp;·&nbsp; 🎬 RDX_FIND Live Demo
+
+</div>
 
 <div align="center">
 

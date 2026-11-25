@@ -20,7 +20,7 @@ I build modern, responsive and user-focused web applications using clean code an
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,html,css,react,vite,django,git,github,vscode,vercel" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,vite,django,git,github,vscode,vercel" alt="Tech stack icons" />
 
 <br/>
 

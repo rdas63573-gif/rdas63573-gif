@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4D8DFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Python+Developer;Aspiring+Full+Stack+Developer;Open+to+Internship+Opportunities" alt="Typing animation" />
 </a>
 
-📍 Gamharia, Jamshedpur, Jharkhand, India · BCA Student at Srinath University
+📍 Jamshedpur, Jharkhand, India · BCA Student at Srinath University
 
 </div>
 
